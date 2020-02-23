@@ -190,7 +190,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "47",
+            "imageSize": "29",
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -200,14 +200,14 @@
             "bgColor": "#eadcd3",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/rEu75-JOVzU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/rEu75-JOVzU?t=39",
+              "url": "https://www.youtube.com/embed/BIIZuzDqsks?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/BIIZuzDqsks?t=20",
               "width": 1280,
               "height": 720
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
