@@ -16,7 +16,7 @@
     "versionFirst": "4.12.1",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 10,
+    "uniqCompNum": 15,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png"
   },
@@ -191,14 +191,14 @@
             "showButtons": true,
             "inverse": true,
             "imageSize": "29",
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#eadcd3",
-            "bgVideoRadio": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/BIIZuzDqsks?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://youtu.be/BIIZuzDqsks?t=20",
@@ -239,7 +239,7 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Click here for the correct one</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-3"
+          "_anchor": "msg-box4-b"
         },
         {
           "_params": {
